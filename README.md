@@ -43,7 +43,6 @@ Next Steps: Experiment with different architectures, hyperparameters, and consid
 Repository Structure
 The GitHub repository is structured as follows:
 
-lua
 Copy code
 transfer_learning_assignment/
 │
